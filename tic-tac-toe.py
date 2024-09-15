@@ -1,5 +1,5 @@
 ######################################################
-# Programação Funcional / Programção I (2022/2)
+# Programação Funcional / Programação I (2022/2)
 # EP2 - Jogo da Velha
 # Nome: Marcelo Ferraz de Araújo Costa Filho
 # Matrícula:
